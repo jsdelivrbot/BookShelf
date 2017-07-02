@@ -1,8 +1,8 @@
 {
-  "name": "Book shelf",
+  "name": "Bookshelf",
   "version": "1.0.0",
   "description": "Learning React/Webpack/Babel",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server"
